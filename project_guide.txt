@@ -1,0 +1,42 @@
+       FILE HANDLING PROJECT -1(SCHOOL STUDENT'S MANAGEMENT SYSTEM)
+
+
+
+This project designed to contains the basic detail of ur school students....
+             
+
+                   <  FACILITIES IN THE PROJECT >
+
+
+INSERTING DATA-->
+
+
+ You can insert the basic information of the candidates in this project .
+e.g) name ,grade, section .....
+
+
+
+DISPLAY DATA-->
+
+the information given by the user is now will be displayed any time u want .
+this helps to view the info of the candidates .
+
+
+SEARCH DATA -->
+
+
+THE information of the students are stored in a file .
+if you want to search individualy or any of student you can.
+
+
+
+DELETE DATA-->
+
+
+If you want to ramove any one of the student from the directory you can do by this project .
+
+
+NOTE: basically this is designed to reduced your efforts for monitoring each student's data now by using this you can easily be create ,delete data of the students  
+
+
+
