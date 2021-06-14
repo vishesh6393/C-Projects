@@ -208,7 +208,7 @@ void update_record(){
         {
                flag=1;
             printf("Name:%s\n Roll:%d\n sec:%s\n grade:%f\n",s.name,s.roll,s.sec,s.grade);
-            printf("\t\t\t**************ENTER NEW DATA ************\n\n");
+            printf("\t\t\t**************ENTER NEW DATA OF ROLL NUMBER AND NAME ************\n\n");
             printf("\n \t ENTER THE NEW ROLL NO.\n");
             scanf("%d",&s.roll);
             fflush(stdin);
